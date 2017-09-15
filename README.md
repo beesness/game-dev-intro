@@ -1,6 +1,4 @@
-# Introduction to Games Development @ Goldsmiths
-
-## Learning by making mistakes and by making games
+### Learning by making mistakes and by making games
 
 During this unit you will undertake a **series of game development projects**. For each project, you **propose** a game that fits its specific brief and then **implement** it. Projects must be appropriate in scope, and pass an approval stage based on a project proposal submission and oral interview. Once projects are approved, you are expected to deliver the proposed game and document it fully. This **documentation** takes the form of images, video, commented source code, executables, websites, and written evaluation, following the method indicated in the project brief.
 
