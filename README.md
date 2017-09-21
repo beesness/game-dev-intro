@@ -17,13 +17,13 @@ The first part of the unit will focus on **game design** basic concepts and tech
   </tr>
   <tr>
   	<td>Thursday<br>05.10</td>
-    <td>Level 1 
-    	<br>Hacking games with verbs
+    <td>[Level 1](levels/01) 
+    	<br>Hacking games with *verbs*
     </td>
     <td>Mechanics + dynamics + aesthetics (MDA)
     </td>
     <td>Individual: pick a game of your choice and analyse its MDA
-    	<br>Individual: 10 bad boardgame ideas with the Random Idea Generator
+    	<br>Individual: 10 bad (board)game ideas
     </td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ The first part of the unit will focus on **game design** basic concepts and tech
     	<br>From boardgames to videogames
     </td>
     <td>Economies and balance, real-time vs turn-based, flowcharts</td>
-    <td>Individual: 10 bad videogame ideas with a little help from the Random Idea Generator</td>
+    <td>Individual: 10 bad videogame</td>
   </tr>
   <tr>
   	<td>Thursday<br>16.11</td>
@@ -71,7 +71,7 @@ The first part of the unit will focus on **game design** basic concepts and tech
     <td>Level 7
     	<br>Autonomous behaviour
     </td>
-    <td>mouse+keyboard controls, collision detection</td>
+    <td>mouse&keyboard controls, collision detection</td>
     <td>Playtest your videogame</td>
   </tr>
   <tr>
@@ -103,6 +103,10 @@ The first part of the unit will focus on **game design** basic concepts and tech
 <!-- # Learning goals -->
 
 <!-- # Rules of the road --> 
+
+# Suggested reading
+
+* [Tabletop Game Design for Video Game Designers](https://www.goodreads.com/book/show/22477999-tabletop-game-design-for-video-game-designers) by Ethan Ham
 
 ### License
 
