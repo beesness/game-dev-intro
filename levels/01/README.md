@@ -8,14 +8,20 @@
 
 [![](assets/pres.png)](https://docs.google.com/presentation/d/1k8aiGwdJn-xTJHQYI96KZeyYtOFdFtiRUP5CJRIHQmI/edit?usp=sharing) 
 
-<sup>Click the image above to view the presentation + notes</sup>
+<sup>Click the image above to reveal  **slides & notes** for today</sup>
  
 ## Your home<del>work</del>play!
 
-### MDA
+### MDA <sup>individual</sup> 
 
-Individual: pick a game of your choice and analyse its MDA
+Pick a game of your choice and analyse it using the [MDA (mechanics, dynamics and aesthetics) framework](assets/mda.pdf).
 
-### 10 bad ideas
+Record your analysis in writing, images audio or video (or any combination of these media).
 
-Individual: 10 bad boardgame ideas with the Random Idea Generator (p.51-52)
+### 10 bad ideas <sup>individual</sup>
+
+Write/sketch 10 ideas for your [brief 01 boardgame](#TODO). 
+
+We'll review them next week!
+
+(p.51-52)
