@@ -8,97 +8,19 @@ The first part of the unit will focus on **game design** basic concepts and tech
 
 # Plan
 
-<table>
-  <tr>
-    <td>When</td>
-    <td>What</td>
-    <td>What?!</td>
-    <td>Home<del>work</del>play</td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>05.10</td>
-    <td>[Level 1](levels/01) 
-    	<br>Hacking games with *verbs*
-    </td>
-    <td>Mechanics + dynamics + aesthetics (MDA)
-    </td>
-    <td>Individual: pick a game of your choice and analyse its MDA
-    	<br>Individual: 10 bad (board)game ideas
-    </td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>12.10</td>
-    <td>Level 2
-    	<br>Prototyping the Minimum Viable Game (MVG)
-    </td>
-    <td>Game core, toy vs game, prototyping</td>
-    <td>Individual: solo playtest + writeup</td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>19.10</td>
-    <td>Level 3
-    	<br>Playtesting
-    </td>
-    <td>Game state, game play, rules+algorithms</td>
-    <td>Team: draft a rulebook for your game prototype</td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>26.10</td>
-    <td>Level 4
-    	<br>Blind playtesting 
-    </td>
-    <td>Feedback loops, choices & chance, types of fun</td>
-    <td>Team: review + iteration</td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>02.11</td>
-    <td>Level 5
-    	<br>From boardgames to videogames
-    </td>
-    <td>Economies and balance, real-time vs turn-based, flowcharts</td>
-    <td>Individual: 10 bad videogame</td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>16.11</td>
-    <td>Level 6
-    	<br>Intro to p5.play
-    </td>
-    <td>Preload, setup, draw, animation</td>
-    <td>Team: start prototyping your game on paper</td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>23.11</td>
-    <td>Level 7
-    	<br>Autonomous behaviour
-    </td>
-    <td>mouse&keyboard controls, collision detection</td>
-    <td>Playtest your videogame</td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>30.11</td>
-    <td>Level 8
-    	<br>TBD
-    </td>
-    <td>bookkeeping + scores, game over</td>
-    <td>Elevator saga?</td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>07.12</td>
-    <td>Level 9
-    	<br>Tutorials
-    </td>
-    <td></td>
-    <td>Document your code</td>
-  </tr>
-  <tr>
-  	<td>Thursday<br>14.12</td>
-    <td>Level 10
-    	<br>Final boss
-    </td>
-    <td>Presentations</td>
-    <td>Feedback from the players (students)</td>
-  </tr>
-</table>
+
+When | What | What?! | Home<del>work</del>play
+---- | ---- | ------ | ----
+Thursday <br>05.10 | [Level 1](levels/01) <br>Hacking games with *verbs* | Mechanics + dynamics + aesthetics (MDA) | Individual: pick a game of your choice and analyse its MDA <br>Individual: 10 bad boardgame ideas
+Thursday <br>12.10 | Level 2 <br>Prototyping the Minimum Viable Game (MVG) | Game core, toy vs game, prototyping | Individual: solo playtest + writeup
+Thursday <br>19.10 | Level 3 <br>Playtesting | Game state, game play, rules+algorithms | Team: draft a rulebook for your game prototype
+Thursday <br>26.10 | Level 4 <br>Blind playtesting | Feedback loops, choices & chance, types of fun | Team: review + iteration
+Thursday <br>02.11 | Level 5 <br>From boardgames to videogames | Economies and balance, real-time vs turn-based, flowcharts | Individual: 10 bad videogame ideas
+Thursday <br>16.11 | Level 6 <br>Intro to p5.play | Preload, setup, draw, animation | Team: start prototyping your game on paper
+Thursday <br>23.11 | Level 7 <br>Autonomous behaviour | Mouse&keyboard controls, collision detection | Playtest your videogame
+Thursday <br>30.11 | Level 8 <br>TBD | Bookkeeping + scores, game over | Elevator saga?
+Thursday <br>07.12 | Level 9 <br>Tutorials | | Document your code
+Thursday <br>14.12 | Level 10 <br>Final boss | Presentations | Feedback from the players (students)
 
 <!-- # Learning goals -->
 
