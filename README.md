@@ -6,8 +6,8 @@ The first part of the unit will focus on **game design** basic concepts and tech
 
 <!-- What this unit is NOT -->
 
-# Plan
 
+# Plan
 
 When | What | What?! | Home<del>work</del>play
 ---- | ---- | ------ | ----
@@ -26,6 +26,7 @@ Thursday <br>14.12 | Level 10 <br>Final boss | Presentations | Feedback from the
 
 <!-- # Rules of the road --> 
 
+
 # Briefs
 
 ### Brief 01
@@ -36,17 +37,23 @@ This will be a team project.
 
 Your boardgame prototype can be about anything. However, you may want to consider the scope of your game, as you’ll have ~ 1 month to prototype and playtest something playable (including the rulebook). 
 
-More details to follow.
+<sup>More details to follow.</sup>
 
 ### Brief 02
 
-Make a videogame with p5.play!
+**Make a videogame with p5.play!**
 
-More details to follow.
+This will be a team project.
+
+<sup>More details to follow.</sup>
+
 
 # Suggested reading
 
 * [Tabletop Game Design for Video Game Designers](https://www.goodreads.com/book/show/22477999-tabletop-game-design-for-video-game-designers) by Ethan Ham
+
+
+
 
 ### License
 
