@@ -20,6 +20,6 @@ Record your analysis in writing, images audio or video (or any combination of th
 
 ### 10 bad ideas <sup>individual</sup>
 
-Write/sketch 10 ideas for your [brief 01 boardgame](../../#brief-01). 
+Write/sketch 10 ideas for your [brief 01 boardgame](../../README.md#brief-01). 
 
 We'll review them next week!
