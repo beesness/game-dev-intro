@@ -104,6 +104,24 @@ The first part of the unit will focus on **game design** basic concepts and tech
 
 <!-- # Rules of the road --> 
 
+# Briefs
+
+### Brief 01
+
+**Prototype a boardgame!**
+
+This will be a team project.
+
+Your boardgame prototype can be about anything. However, you may want to consider the scope of your game, as you’ll have ~ 1 month to prototype and playtest something playable (including the rulebook). 
+
+More details to follow.
+
+### Brief 02
+
+Make a videogame with p5.play!
+
+More details to follow.
+
 # Suggested reading
 
 * [Tabletop Game Design for Video Game Designers](https://www.goodreads.com/book/show/22477999-tabletop-game-design-for-video-game-designers) by Ethan Ham
