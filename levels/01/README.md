@@ -16,7 +16,7 @@
 
 Pick a game of your choice and analyse it using the [MDA (mechanics, dynamics and aesthetics) framework](assets/mda.pdf).
 
-Record your analysis in writing, images audio or video (or any combination of these media).
+Record your analysis in writing, images, audio, video, or any combination of these formats. Publish your analysis online (for example: on your blog, or on YouTube, or on SoundCloud ... *anywhere* as long as it's publicly accessible) and share the link with the rest of the class.
 
 ### 10 bad ideas <sup>individual</sup>
 
