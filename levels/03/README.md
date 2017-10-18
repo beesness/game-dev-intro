@@ -31,3 +31,5 @@ Draft your rulebook as a [Google Document](docs.google.com).
 Next week you'll need it for *blind playtesting*.
 
 You can find useful advice on how to write rulebooks [here](http://ryanmacklin.com/2015/02/11-rules-board-game-writing/) and [here](http://numberless.net/blog/2007/04/09/how-to-write-rules-without-confusing-people/).
+
+[Here](https://github.com/beesness/game/tree/master/versions/v10) is the rulebook for my game Beesness (work-in-progress). What do you think?
