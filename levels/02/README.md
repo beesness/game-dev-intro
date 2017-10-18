@@ -19,7 +19,7 @@ It may feel awkward the first few times, as you take on the role of all the play
 
 However, solo-playtesting is extremely useful to ensure your prototype doesn't have mechanical flaws (the equivalent of code bugs) and that emerging play dynamics are in line with what you expect. By testing your game *solo* you also avoid wasting other people's time.
 
-I always solo-playtest new game concepts, and every time I introduce a major change to an existing game.   
+I always solo-playtest new game concepts, and every time I introduce a change to an existing game.   
 
 Take notes as you solo-playtest your prototype, and jot down ideas for improvements or fixes to the game. 
 
