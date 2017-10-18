@@ -13,7 +13,7 @@ When | What | What?! | Home<del>work</del>play
 ---- | ---- | ------ | ----
 Thursday <br>05.10 | [**Level 01**](levels/01) <br>Hacking games with *verbs* | Mechanics + dynamics + aesthetics (MDA) | Individual: pick a game of your choice and analyse its MDA <br>Individual: 10 bad boardgame ideas
 Thursday <br>12.10 | [**Level 02**](levels/02) <br>Prototyping the Minimum Viable Game (MVG) | Game core, toy vs game, prototyping | Individual: solo playtest + writeup <br>Team: video-tutorial of your hack from Level 01
-Thursday <br>19.10 | Level 03 <br>Playtesting | Game state, game play, rules+algorithms | Team: draft a rulebook for your game prototype
+Thursday <br>19.10 | [**Level 03**](levels/03) <br>Playtesting | Game state, game play, rules+algorithms | Team: draft a rulebook for your game prototype
 Thursday <br>26.10 | Level 04 <br>Blind playtesting | Feedback loops, choices & chance, types of fun | Team: review + iteration
 Thursday <br>02.11 | Level 05 <br>From boardgames to videogames | Economies and balance, real-time vs turn-based, flowcharts | Individual: 10 bad videogame ideas
 Thursday <br>16.11 | Level 06 <br>Intro to p5.play | Preload, setup, draw, animation | Team: start prototyping your game on paper
