@@ -31,11 +31,13 @@ Thursday <br>14.12 | Level 10 <br>Final boss | Presentations | Feedback from the
 
 ### Brief 01
 
-**Prototype a boardgame!**
+**Prototype a *fundane* boardgame!**
 
 This will be a team project.
 
-Your boardgame prototype can be about anything. However, you may want to consider the scope of your game, as you’ll have ~ 1 month to prototype and playtest something playable (including the rulebook). 
+Your boardgame prototype will be inspired by everyday life: take a *mundane* task (like washing the dishes) and turn it into a game! 
+
+Consider the scope of your game, as you’ll have ~ 1 month to prototype and playtest something playable (including the rulebook). 
 
 <sup>More details to follow.</sup>
 
