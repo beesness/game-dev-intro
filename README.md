@@ -14,7 +14,7 @@ When | What | What?! | Home<del>work</del>play
 Thursday <br>05.10 | [**Level 01**](levels/01) <br>Hacking games with *verbs* | Mechanics + dynamics + aesthetics (MDA) | Individual: pick a game of your choice and analyse its MDA <br>Individual: 10 bad boardgame ideas
 Thursday <br>12.10 | [**Level 02**](levels/02) <br>Prototyping the Minimum Viable Game (MVG) | Game core, toy vs game, prototyping | Individual: solo playtest + writeup <br>Team: video-tutorial of your hack from Level 01
 Thursday <br>19.10 | [**Level 03**](levels/03) <br>Playtesting | Game state, game play, rules+algorithms | Team: draft a rulebook for your game prototype
-Thursday <br>26.10 | Level 04 <br>Blind playtesting | Feedback loops, choices & chance, types of fun | Team: review + iteration
+Thursday <br>26.10 | [**Level 04**](levels/04) <br>Blind playtesting | Feedback loops, choices & chance, types of fun | Team: prepare boardgame for submission
 Thursday <br>02.11 | Level 05 <br>From boardgames to videogames | Economies and balance, real-time vs turn-based, flowcharts | Individual: 10 bad videogame ideas
 Thursday <br>16.11 | Level 06 <br>Intro to p5.play | Preload, setup, draw, animation | Team: start prototyping your game on paper
 Thursday <br>23.11 | Level 07 <br>Autonomous behaviour | Mouse&keyboard controls, collision detection | Playtest your videogame
@@ -33,13 +33,21 @@ Thursday <br>14.12 | Level 10 <br>Final boss | Presentations | Feedback from the
 
 **Prototype a *fundane* boardgame!**
 
-This will be a team project.
+This will be a **team project**.
 
-Your boardgame prototype will be inspired by everyday life: take a *mundane* task (like washing the dishes) and turn it into a game! 
+Your boardgame prototype will be **inspired by everyday life**: take a *mundane* task (like washing the dishes) or an awkward social situation and turn it into a game! 
 
-Consider the scope of your game, as you’ll have ~ 1 month to prototype and playtest something playable (including the rulebook). 
+No monsters, swords, dungeons, spaceships or armies will be tolerated in your game.
 
-<sup>More details to follow.</sup>
+Due date: **Thursday, the 2nd of November**
+
+Submission checklist:
+
+- [ ] Game prototype <sup>required</sup>
+- [ ] Rulebook <sup>required</sup>
+- [ ] Videotutorial <sup>desirable</sup>
+
+More details [here](levels/04/README.md#finalise-your-game-prototype-and-rulebook-team).
 
 ### Brief 02
 
