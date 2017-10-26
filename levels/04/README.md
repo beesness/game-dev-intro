@@ -32,7 +32,9 @@ Checklist for your submission, **due on Thursday, 2nd of November**:
 	
 	Even better, print out the rulebook and drop it in your game box/bag. 
 	
-	Here's a [list of what topics your rulebook should cover](../03/README.md#draft-a-rulebook-for-your-game-prototype-team).
+	Your rulebook should have a **mix of images and text**. For instance, including a **flowchart** of the core mechanics is a pretty smart idea.
+	
+	Here's a comprehensive [list of what topics your rulebook should cover](../03/README.md#draft-a-rulebook-for-your-game-prototype-team).
 
 - [ ] **Videotutorial** <sup>desirable</sup>
 	
