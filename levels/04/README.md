@@ -34,6 +34,8 @@ Checklist for your submission, **due on Thursday, 2nd of November**:
 	
 	Your rulebook should have a **mix of images and text**. For instance, including a **flowchart** of the core mechanics is a pretty smart idea.
 	
+	The **title** of your rulebook must identify your game and your team members, eg: `Beesness - by Matteo Menapace`. Don't call it `game rules` or similar.
+	
 	Here's a comprehensive [list of what topics your rulebook should cover](../03/README.md#draft-a-rulebook-for-your-game-prototype-team).
 
 - [ ] **Videotutorial** <sup>desirable</sup>
