@@ -34,13 +34,20 @@ Checklist for your submission, **due on Thursday, 2nd of November**:
 	
 	Your rulebook should have a **mix of images and text**. For instance, including a **flowchart** of the core mechanics is a pretty smart idea.
 	
-	The **title** of your rulebook must identify your game and your team members, eg: `Beesness - by Matteo Menapace`. Don't call it `game rules` or similar.
+	The **title** of your rulebook must identify your game and your team members, eg: `Beesness - by Matteo Menapace`. Don't call it `game rules` or something similarly vague.
 	
 	Here's a comprehensive [list of what topics your rulebook should cover](../03/README.md#draft-a-rulebook-for-your-game-prototype-team).
+
+- [ ] **VLE group submission** <sup>required</sup> 
+
+	Coursework must be submitted via the VLE (learn.gold) so that we can officially grade it. I know, bureaucracy sucks but that's the protocol. 
+	
+	 All you need to do is visit [this page](https://learn.gold.ac.uk/mod/assign/view.php?id=494284) and fill in the form. Add links to your boardgame rulebook, videotutorial and anything else you believe could improve your mark.
 
 - [ ] **Videotutorial** <sup>desirable</sup>
 	
 	To score extra points, record a videotutorial on how to play your game, and drop the link in your game box/bag.
+
 
 
 ### PlaytestUK your game <sup>team</sup>
