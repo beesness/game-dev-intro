@@ -1,8 +1,12 @@
 ### Learning by making mistakes and by making games
 
-During this unit you will undertake a **series of game development projects**. For each project, you **propose** a game that fits its specific brief and then **implement** it. Projects must be appropriate in scope, and pass an approval stage based on a project proposal submission and oral interview. Once projects are approved, you are expected to deliver the proposed game and document it fully. This **documentation** takes the form of images, video, commented source code, executables, websites, and written evaluation, following the method indicated in the project brief.
+<!-- During this unit you will undertake a **series of game development projects**. For each project, you **propose** a game that fits its specific brief and then **implement** it. Projects must be appropriate in scope, and pass an approval stage based on a project proposal submission and oral interview. Once projects are approved, you are expected to deliver the proposed game and document it fully. This **documentation** takes the form of images, video, commented source code, executables, websites, and written evaluation, following the method indicated in the project brief. -->
 
-The first part of the unit will focus on **game design** basic concepts and techniques, which you will practice by making a **board game**. In the second part you will transfer the skills&ideas **from analog to digital** game making. You will create a simple **videogame** using [p5.play](http://p5play.molleindustria.org/).
+The first part of the unit will focus on **game design** basic concepts and techniques, which you will practice by making a **board game**. In the second part you will transfer the skills&ideas **from analog to digital** game making. You will create a **videogame** using [p5.play](http://p5play.molleindustria.org/).
+
+Remember...
+
+![](assets/cacca.png) 
 
 <!-- What this unit is NOT -->
 
@@ -45,6 +49,7 @@ Submission checklist:
 
 - [ ] Game prototype <sup>required</sup>
 - [ ] Rulebook <sup>required</sup>
+- [ ] VLE group submission <sup>required</sup>
 - [ ] Videotutorial <sup>desirable</sup>
 
 More details [here](levels/04/README.md#finalise-your-game-prototype-and-rulebook-team).
