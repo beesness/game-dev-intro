@@ -52,20 +52,34 @@ Submission checklist:
 - [ ] VLE group submission <sup>required</sup>
 - [ ] Videotutorial <sup>desirable</sup>
 
-More details [here](levels/04/README.md#finalise-your-game-prototype-and-rulebook-team).
+All the details [here](levels/04/README.md#finalise-your-game-prototype-and-rulebook-team).
 
 ### Brief 02
 
-**Make a videogame with p5.play!**
+**Make a videogame with [p5.play](http://p5play.molleindustria.org/)!**
 
 This will be a team project.
+
+Your game must adhere to the following **creative constraints**:
+
+1. Every visual element in your game must be represented with **emojis**. Player characters, non-playing characters, walls, obstacles… *everything*. 
+
+	Your can use several emojis for a single object, but only **one emoji at a time**. For example, your player character could have a happy state :grinning: and a sad state :cry: but only one can be experienced by players at any given time.
+
+	You can download **all the emojis** from [this repository](https://github.com/iamcal/emoji-data).
+2. Your game must be playable by at least **3 players**.
+
+	Some of them may be eliminated whilst playing. However, there need to be at least three human players to start a game.
+
+Due date: **Thursday, the 14th of December**
 
 <sup>More details to follow.</sup>
 
 
 # Suggested reading
 
-* [Tabletop Game Design for Video Game Designers](https://www.goodreads.com/book/show/22477999-tabletop-game-design-for-video-game-designers) by Ethan Ham
+* [Tabletop Game Design for Video Game Designers](https://www.goodreads.com/book/show/22477999-tabletop-game-design-for-video-game-designers) by Ethan Ham (book, ~30 squid)
+* [Game Design Concepts](https://gamedesignconcepts.wordpress.com/) by Ian Schreiber (online, free)
 
 
 
