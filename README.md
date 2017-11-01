@@ -19,8 +19,8 @@ Thursday <br>05.10 | [**Level 01**](levels/01) <br>Hacking games with *verbs* | 
 Thursday <br>12.10 | [**Level 02**](levels/02) <br>Prototyping the Minimum Viable Game (MVG) | Game core, toy vs game, prototyping | Individual: solo playtest + writeup <br>Team: video-tutorial of your hack from Level 01
 Thursday <br>19.10 | [**Level 03**](levels/03) <br>Playtesting | Game state, game play, rules+algorithms | Team: draft a rulebook for your game prototype
 Thursday <br>26.10 | [**Level 04**](levels/04) <br>Blind playtesting | Feedback loops, choices & chance, types of fun | Team: prepare boardgame for submission
-Thursday <br>02.11 | Level 05 <br>From boardgames to videogames | Economies and balance, real-time vs turn-based, flowcharts | Individual: 10 bad videogame ideas
-Thursday <br>16.11 | Level 06 <br>Intro to p5.play | Preload, setup, draw, animation | Team: start prototyping your game on paper
+Thursday <br>02.11 | [**Level 05**](levels/05) <br>Tuning | Economies and balance | Individual: 10 bad videogame ideas
+Thursday <br>16.11 | Level 06 <br>From boardgames to videogames | Real-time vs turn-based, flowcharts <br>Intro to p5.play: preload, setup, draw | Team: start prototyping your game on paper
 Thursday <br>23.11 | Level 07 <br>Autonomous behaviour | Mouse&keyboard controls, collision detection | Playtest your videogame
 Thursday <br>30.11 | Level 08 <br>TBD | Bookkeeping + scores, game over | Elevator saga?
 Thursday <br>07.12 | Level 09 <br>Tutorials | | Document your code
