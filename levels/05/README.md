@@ -17,13 +17,13 @@
 
 ### 10 original game ideas <sup>individual</sup>
 
-Write/sketch 10 ideas for your [brief 02 videogame](../../README.md#brief-0w). 
+Write/sketch 10 original game ideas for your [brief 02 videogame](../../README.md#brief-0w). 
 
 * *Original* means: no descriptions of existing games
 * *Game* means: not just story plots or scenarios
 * *Idea* means: don’t think about whether you are able to develop it *but* if it’s something you would be interested in developing
 
-Some [inspirations](http://ludumdare.com/compo/ludumdare/)
+Some [inspirations](http://ludumdare.com/compo/ludumdare/).
 
 <!-- Adapted from http://mycours.es/gamedesign2016/assignments/too-many-ideas -->
 
