@@ -85,7 +85,7 @@ Due date: **Thursday, the 14th of December**
 * [What's the point if we can't have fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun) by David Graeber (online, free)
 * [Getting Started with p5.js](https://wordery.com/getting-started-with-p5js-lauren-mccarthy-9781457186776) by Lauren McCarthy and Ben Fry (book, ~12 squid)
 * [p5.play manual and examples](http://p5play.molleindustria.org) by Paolo Pedercini and contributors (online, free)
-* 
+* [Making Games with p5.play](https://creative-coding.decontextualize.com/making-games-with-p5-play/) by Allison Parrish (online, free)
 
 
 
