@@ -83,7 +83,9 @@ Due date: **Thursday, the 14th of December**
 * [Tabletop Game Design for Video Game Designers](https://www.goodreads.com/book/show/22477999-tabletop-game-design-for-video-game-designers) by Ethan Ham (book, ~30 squid)
 * [Game Design Concepts](https://gamedesignconcepts.wordpress.com/) by Ian Schreiber (online, free)
 * [What's the point if we can't have fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun) by David Graeber (online, free)
+* [Getting Started with p5.js](https://wordery.com/getting-started-with-p5js-lauren-mccarthy-9781457186776) by Lauren McCarthy and Ben Fry (book, ~12 squid)
 * [p5.play manual and examples](http://p5play.molleindustria.org) by Paolo Pedercini and contributors (online, free)
+* 
 
 
 
