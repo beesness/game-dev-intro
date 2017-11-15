@@ -69,7 +69,9 @@ Your game must adhere to the following **creative constraints**:
 	You can download **all the emojis** from [this repository](https://github.com/iamcal/emoji-data).
 2. Your game must be playable by at least **3 players**.
 
-	Some of them may be eliminated whilst playing. However, there need to be at least three human players to start a game.
+	Some of them may be eliminated whilst playing. However, there need to be at least three human players to start a game. 
+	
+	And no, they can't take turns. They have to play all at the same time.
 
 Due date: **Thursday, the 14th of December**
 
