@@ -6,7 +6,7 @@
 2. Meaningful gameplay: from paper to interface
 3. Workshop: working with spritesheets
 
-[![](assets/pres.png)](https://docs.google.com/presentation/d/1MRa4-hm90ufic0RBnUQMIg3GeRyiy1epC2RFA_R2DuY/edit?usp=sharing) 
+[![](assets/pres.png)](https://docs.google.com/presentation/d/16gyXapOEh4JOlRzxL3st6U37yHEOwx_DOK08cAM36HU/edit?usp=sharing) 
 
 <sup>Click the image above to reveal  **slides & notes** for today</sup>
 
