@@ -17,7 +17,7 @@
 
 ### 10 original game ideas <sup>individual</sup>
 
-Write/sketch 10 original game ideas for your [brief 02 videogame](../../README.md#brief-0w). 
+Write/sketch 10 original game ideas for your [brief 02 videogame](../../README.md#brief-02). 
 
 * *Original* means: no descriptions of existing games
 * *Game* means: not just story plots or scenarios
