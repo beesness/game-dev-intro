@@ -22,7 +22,7 @@ Thursday <br>26.10 | [**Level 04**](levels/04) <br>Blind playtesting | Feedback 
 Thursday <br>02.11 | [**Level 05**](levels/05) <br>Tuning | Types of fun, economies and balance | Individual: 10 videogame ideas
 Thursday <br>16.11 | [**Level 06**](levels/06) <br>From boardgames to videogames | Real-time vs turn-based <br>Intro to p5.play: preload, setup, draw | Individual: build the *toy*
 Thursday <br>23.11 | [**Level 07**](levels/07) <br>Meaningful play | Algorithms & flowcharts, game interface, spritesheets | Individual: build the *puzzle*
-Thursday <br>30.11 | [**Level 08**](levels/08) <br>Playtesting | Bookkeeping + scores, game over | *Scratch* that *itch*
+Thursday <br>30.11 | [**Level 08**](levels/08) <br>Playtesting | Bookkeeping + scores, game over | Individual: scratch that *itch*
 Thursday <br>07.12 | Level 09 <br>Tutorials | | Document your code
 Thursday <br>14.12 | Level 10 <br>Final boss | Presentations | Feedback from the players (students)
 

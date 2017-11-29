@@ -20,7 +20,7 @@ What does *inspiring* mean?
 
 Games that catch your attention because of their theme / controls / visual style / gameplay / interface.
 
-On itch, **search** for games that are `Playable in browser` and possibly `local multiplayer` so that they are similar to the game you are building. 
+On [itch](https://itch.io/) **search** for games that are `Playable in browser` and possibly `local multiplayer` so that they are similar to the game you are building. 
 
 Then **list at least 3** games you found inspiring in [this spreadsheet](http://bit.ly/vg-sheet).
 
@@ -32,4 +32,4 @@ What changes are you going to make to your game after today's playtest?
 
 Next week we'll have a final round of playtesting in class, before the presentations on Thursday the 14th. 
 
-Bonus: playtest your game with friends/family (you can share your itch.io link with them).
+Bonus: playtest your game with friends/family (you can share the link to `YOUR_USERNAME.itch.io/YOUR_GAME` with them).
