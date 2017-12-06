@@ -6,7 +6,7 @@
 2. Publish your game to [itch.io](https://itch.io/) 
 3. Playtesting + tutorials
 
-[![](assets/pres.png)](https://docs.google.com/presentation/d/1TFqgXjga3BjGUNhSQfp7Owb9NTMTwDgTkGJPdKkqhHA/edit?usp=sharing) 
+[![](assets/pres.png)](https://docs.google.com/presentation/d/1NHCofNmyANmLd6AYZU3bSO6KeaaB9q1aXru2zaOFsGQ/edit?usp=sharing) 
 
 <sup>Click the image above to reveal  **slides & notes** for today</sup>
 
@@ -18,7 +18,7 @@ Checklist for your submission, **due on Thursday, 14th of December**:
 
 - [ ] Your **videogame** must be playable by at least 3 players, visualised exclusively through emojis AND published on `itch`.
 	
-- [ ] A **zip folder** with all your game code and assets (the same zip you've uploaded to `itch`.
+- [ ] All your game code and assets (the same you've uploaded to `itch`).
 	
 - [ ] Your videogame **interface sketches**.
 
@@ -28,4 +28,4 @@ Checklist for your submission, **due on Thursday, 14th of December**:
  
 	Coursework must be submitted via the VLE (learn.gold) so that we can officially grade it. 
 	
-	 All you need to do is visit [this page](https://learn.gold.ac.uk/mod/assign/view.php?id=504029). Upload a zip folder and make sure it includes links to your videogame `itch` page, code+assets, interface sketches, and anything else you believe could improve your mark.
+	 All you need to do is visit [this page](https://learn.gold.ac.uk/mod/assign/view.php?id=504029). Upload a zip folder and make sure it includes a link to your videogame `itch` page, project folder with code+assets, interface sketches, and anything else you believe could improve your grade.
