@@ -6,7 +6,7 @@ The first part of this course will focus on **game design** basic concepts and t
 
 Remember...
 
-![](assets/cacca.png) 
+![](assets/cacca.png)
 
 <!-- What this unit is NOT -->
 
@@ -23,12 +23,12 @@ Thursday <br>02.11 | [**Level 05**](levels/05) <br>Tuning | Types of fun, econom
 Thursday <br>16.11 | [**Level 06**](levels/06) <br>From boardgames to videogames | Real-time vs turn-based <br>Intro to p5.play: preload, setup, draw | Individual: build the *toy*
 Thursday <br>23.11 | [**Level 07**](levels/07) <br>Meaningful play | Algorithms & flowcharts, game interface, spritesheets | Individual: build the *puzzle*
 Thursday <br>30.11 | [**Level 08**](levels/08) <br>Playtesting | Bookkeeping + scores, game over | Individual: scratch that *itch*
-Thursday <br>07.12 | Level 09 <br>Tutorials | | Document your code
-Thursday <br>14.12 | Level 10 <br>Final boss | Presentations | Feedback from the players (students)
+Thursday <br>07.12 | [**Level 09**](levels/09) <br>Tutorials | Debugging and playtesting | Individual: prepare videogame for submission
+Thursday <br>14.12 | Level 10 <br>Final boss | Presentations | <!-- Feedback from the players (students) -->
 
 <!-- # Learning goals -->
 
-<!-- # Rules of the road --> 
+<!-- # Rules of the road -->
 
 
 # Project briefs
@@ -39,7 +39,7 @@ Thursday <br>14.12 | Level 10 <br>Final boss | Presentations | Feedback from the
 
 This will be a **team project**.
 
-Your boardgame prototype will be **inspired by everyday life**: take a *mundane* task (like washing the dishes) or an awkward social situation and turn it into a game! 
+Your boardgame prototype will be **inspired by everyday life**: take a *mundane* task (like washing the dishes) or an awkward social situation and turn it into a game!
 
 No monsters, swords, dungeons, spaceships or armies will be tolerated in your game.
 
@@ -62,20 +62,20 @@ This will be a team project.
 
 Your game must adhere to the following **creative constraints**:
 
-1. Every visual element in your game must be represented with **emojis**. Player characters, non-playing characters, walls, obstacles… *everything*. 
+1. Every visual element in your game must be represented with **emojis**. Player characters, non-playing characters, walls, obstacles… *everything*.
 
 	Your can use several emojis for a single object, but only **one emoji at a time**. For example, your player character could have a happy state :grinning: and a sad state :cry: but only one can be experienced by players at any given time.
 
 	You can download **all the emojis** from [this repository](https://github.com/iamcal/emoji-data).
 2. Your game must be playable by at least **3 players**.
 
-	Some of them may be eliminated whilst playing. However, there need to be at least three human players to start a game. 
-	
+	Some of them may be eliminated whilst playing. However, there need to be at least three human players to start a game.
+
 	And no, they can't take turns. They have to play all at the same time.
 
 Due date: **Thursday, the 14th of December**
 
-<sup>More details to follow.</sup>
+All the details [here](levels/09/README.md#finalise-your-videogame-individual).
 
 
 # Suggested reading
