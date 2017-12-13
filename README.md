@@ -24,7 +24,7 @@ Thursday <br>16.11 | [**Level 06**](levels/06) <br>From boardgames to videogames
 Thursday <br>23.11 | [**Level 07**](levels/07) <br>Meaningful play | Algorithms & flowcharts, game interface, spritesheets | Individual: build the *puzzle*
 Thursday <br>30.11 | [**Level 08**](levels/08) <br>Playtesting | Bookkeeping + scores, game over | Individual: scratch that *itch*
 Thursday <br>07.12 | [**Level 09**](levels/09) <br>Tutorials | Debugging and playtesting | Individual: prepare videogame for submission
-Thursday <br>14.12 | [**Level 10**](levels/10) <br>Final bosses | Presentations | <!-- Feedback from the players (students) -->
+Thursday <br>14.12 | [**Level 10**](levels/10) <br>Final bosses | Presentations | Hand in your videogame!
 
 <!-- # Learning goals -->
 
@@ -74,6 +74,13 @@ Your game must adhere to the following **creative constraints**:
 	And no, they can't take turns. They have to play all at the same time.
 
 Due date: **Thursday, the 14th of December**
+
+Submission checklist:
+
+- [ ] Your **videogame** published on `itch` <sup>required</sup>	
+- [ ] All your game **code + assets** <sup>required</sup>
+- [ ] Your videogame **interface sketches** <sup>required</sup>
+- [ ] A **list of games** from `itch` that inspire you <sup>required</sup>
 
 All the details [here](levels/10/README.md#hand-in-your-videogame-individual).
 
