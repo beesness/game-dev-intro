@@ -24,7 +24,7 @@ Thursday <br>16.11 | [**Level 06**](levels/06) <br>From boardgames to videogames
 Thursday <br>23.11 | [**Level 07**](levels/07) <br>Meaningful play | Algorithms & flowcharts, game interface, spritesheets | Individual: build the *puzzle*
 Thursday <br>30.11 | [**Level 08**](levels/08) <br>Playtesting | Bookkeeping + scores, game over | Individual: scratch that *itch*
 Thursday <br>07.12 | [**Level 09**](levels/09) <br>Tutorials | Debugging and playtesting | Individual: prepare videogame for submission
-Thursday <br>14.12 | Level 10 <br>Final boss | Presentations | <!-- Feedback from the players (students) -->
+Thursday <br>14.12 | [**Level 10**](levels/10) <br>Final bosses | Presentations | <!-- Feedback from the players (students) -->
 
 <!-- # Learning goals -->
 
@@ -75,7 +75,7 @@ Your game must adhere to the following **creative constraints**:
 
 Due date: **Thursday, the 14th of December**
 
-All the details [here](levels/09/README.md#finalise-your-videogame-individual).
+All the details [here](levels/10/README.md#hand-in-your-videogame-individual).
 
 
 # Suggested reading
