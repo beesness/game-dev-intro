@@ -14,11 +14,11 @@
 
 ### Hand in your videogame <sup>individual</sup>
 
-Checklist for your submission, **due on Thursday, 14th of December**:
+Checklist for your submission, **due on Thursday 14th of December**:
 
 - [ ] Your **videogame** must be playable by at least 3 players, visualised exclusively through emojis AND published on `itch`.
 	
-- [ ] All your game code and assets (the same you've uploaded to `itch`).
+- [ ] All your game **code and assets** (the same you've uploaded to `itch`).
 	
 - [ ] Your videogame **interface sketches**.
 
@@ -28,4 +28,4 @@ Checklist for your submission, **due on Thursday, 14th of December**:
  
 	Coursework must be submitted via the VLE (learn.gold) so that we can officially grade it. 
 	
-	 All you need to do is visit [this page](https://learn.gold.ac.uk/mod/assign/view.php?id=504029). Upload a zip folder and make sure it includes a link to your videogame `itch` page, project folder with code+assets, interface sketches, and anything else you believe could improve your grade.
+	 All you need to do is visit [this page](https://learn.gold.ac.uk/mod/assign/view.php?id=504029). Upload a zip folder and make sure it includes a link to your videogame `itch` page, project folder with code+assets, interface sketches, inspiring game links, and anything else you believe could improve your grade.
