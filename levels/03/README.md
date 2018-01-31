@@ -26,7 +26,7 @@ Here's a **checklist** of what your rulebook may contain (feel free to experimen
 5. End game: **win and defeat** conditions 
 6. **Examples** of play
 
-Draft your rulebook as a [Google Document](docs.google.com). 
+Draft your rulebook using [this template](https://docs.google.com/document/d/1koDwwuW0Lt66bZpQL-D84FCVdwFb42FYbhoAew2XRn0/edit?usp=sharing). 
 
 Next week you'll need it for *blind playtesting*.
 
